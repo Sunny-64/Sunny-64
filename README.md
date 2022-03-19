@@ -1,4 +1,4 @@
-## Hi There, This is Sunny. 
+<!-- ## Hi There, This is Sunny. 
 
 - 🔭 I’m currently working on Honing my programming skills and Web development.
 - 🌱 I’m currently learning Full Stack Development.
@@ -13,3 +13,4 @@
 ## Stats.
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Sunny-64&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+ -->
