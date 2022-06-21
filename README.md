@@ -25,12 +25,16 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Sunny-64&theme=dark&hide_border=true)<br/> -->
+ <p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Sunny-64&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Sunny-64&theme=dark&hide_border=true" />
+  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=dark&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+   
+<!--  <img  width="59.5%" alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunny-64&bg_color=#22272d&color=#22272d&line=FFA486&point=FF0075&hide_border=true&theme=dark" /> -->
+</p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 
 
