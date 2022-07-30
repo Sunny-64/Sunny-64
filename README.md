@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="images/right.png">
 
-- 🔭 I’m currently working on **News App.**
+- 🔭 I’m currently working on **Journal.**
 
 - 🌱 I’m currently learning **Express**
 
-- 🤝 I’m looking for help with **Nodejs**
+- 🤝 I’m looking for help with **Php**
 
 - 📫 How to reach me **sunny64n@gmail.com**
 
