@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="images/right.png">
 
-- 🔭 I’m currently working on **Journal.**
+- 🔭 I’m currently working on **Journal writing.**
 
 - 🌱 I’m currently learning **Express**
 
