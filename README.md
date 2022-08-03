@@ -34,8 +34,8 @@
 <!--  <img  width="59.5%" alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sunny-64&bg_color=#22272d&color=#22272d&line=FFA486&point=FF0075&hide_border=true&theme=dark" /> -->
 </p>
 
-<!-- ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
