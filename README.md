@@ -12,6 +12,8 @@
 <a href="https://twitter.com/_sunny64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sunny64" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17934420/sunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17934420" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunny-64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunny-64" height="30" width="40" /></a>
+ 
+<!--  <a href="https://www.linkedin.com/in/b-sunny-a97579219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="_sunny64" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
