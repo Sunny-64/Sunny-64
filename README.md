@@ -5,12 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="images/right.png">
 
-- 🔭 I’m currently working on **Online Journal.**
-
-- 🌱 I’m currently learning **Express**
-
-- 🤝 I’m looking for help with **Php**
-
 - 📫 How to reach me **sunny64n@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
