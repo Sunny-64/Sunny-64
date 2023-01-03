@@ -30,10 +30,15 @@
 
 <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
- <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny-64&show_icons=true&theme=dark&locale=en&layout=compact" alt="sunny-64" /> 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=gotham)
  </p>
  
 
+<!-- <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny-64&show_icons=true&theme=dark&locale=en&layout=compact" alt="sunny-64" />  -->
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
