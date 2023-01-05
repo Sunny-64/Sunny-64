@@ -30,7 +30,7 @@
 
 <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=gotham)
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=gotham) -->
   
  </p>
  
