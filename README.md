@@ -1,7 +1,7 @@
 ![Header](images/github-header-image.png)
 
 
-
+<img align="right" alt="Coding" width="400" src="./images/Y.gif"> 
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
