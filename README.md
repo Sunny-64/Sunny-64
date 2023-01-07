@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="images/right.png">
+<!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
 - 📫 How to reach me **sunny64n@gmail.com**
 
