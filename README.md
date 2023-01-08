@@ -1,7 +1,7 @@
 ![Header](images/github-header-image.png)
 
 
-<img align="right" alt="Coding" width="400" src="./images/Y.gif"> 
+
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
@@ -27,6 +27,7 @@
 
 <p>
 <img  width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny-64&theme=dark&hide_border=true"/>
+<img align="right" alt="Coding" width="400" src="./images/Y.gif"> 
 
 <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
