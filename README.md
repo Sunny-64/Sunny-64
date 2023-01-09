@@ -5,9 +5,10 @@
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 -->
-
-
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
