@@ -9,7 +9,7 @@
 <h1  > # Hi, I am Sunny. </h1>
 
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/62538a0e8ce09939546126167a3c6e380709dca0/github-contribution-grid-snake.svg" alt="snake" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
