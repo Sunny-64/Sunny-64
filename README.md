@@ -34,15 +34,23 @@
 
 <p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=apprentice)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=apprentice)
+
+
+<!--
 <img  width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny-64&theme=dark&hide_border=true"/>
-<!-- <img align="right" alt="Coding" width="400" src="./images/Y.gif"> -->
+ <img align="right" alt="Coding" width="400" src="./images/Y.gif"> 
 <img align="right" alt="coding" width="400" src = "./images/coding.gif">
 
-<!-- <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> -->
+-->
+
+
+<!-- <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=Sunny-64&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64&theme=gotham)
  
-  
+
+  -->
  </p>
  
 
