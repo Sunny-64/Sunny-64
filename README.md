@@ -40,9 +40,11 @@
 -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=dark" width="100%" />
 
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=dark" width ="45%" align="left" />
+<div align="center" >
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=dark" width ="45%" align="left" />
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=dark" width = "45%" align="middle"/>
+</div>
 
 
 
