@@ -38,11 +38,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=apprentice)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=apprentice)
 
 -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=dark" width="1200px" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=dark" width="100%" />
 
-<img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=dark" width ="480px" align="left" />
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=dark" width ="48%" align="left" />
 
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=dark" width = "480px" align="right"/>
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=dark" width = "48%" align="right"/>
 
 
 
