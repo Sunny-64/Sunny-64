@@ -1,11 +1,3 @@
- <!-- ![Header](images/github-header-image.png) -->
- <!--
- 
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
--->
 <h1  > # Hi, I am Sunny. </h1>
 
 
@@ -71,12 +63,16 @@
 <!-- <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny-64&show_icons=true&theme=dark&locale=en&layout=compact" alt="sunny-64" />  -->
 
 
+<!--
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64)](https://github.com/anuraghazra/github-readme-stats)-->
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-64)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
+
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
@@ -86,9 +82,8 @@
 [![@sunny64's Holopin board](https://holopin.io/api/user/board?user=sunny64)](https://holopin.io/@sunny64) 
 
 
+
 -->
-
-
 
 
 
