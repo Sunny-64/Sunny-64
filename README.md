@@ -1,4 +1,8 @@
-<h1  > # Hi, I am Sunny. </h1>
+<h1  > # Hi, I am Sunny. 
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sunny-64&label=Profile%20Views&color=12&icon=7&pretty=true" />
+</a>
+</h1>
 
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/output/github-contribution-grid-snake.svg" alt="snake" />
