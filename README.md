@@ -1,6 +1,6 @@
 <h1  > # Hi, I am Sunny. 
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sunny-64&label=Profile%20Views&color=12&icon=7&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Sunny-64&label=Profile%20Views&color=12&icon=7&pretty=true" align="right"/>
 </a>
 </h1>
 
