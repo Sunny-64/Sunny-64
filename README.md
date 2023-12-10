@@ -6,7 +6,6 @@
 </a>
 </h1>
 
-
 <img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
@@ -32,10 +31,6 @@
 
 <p>
 
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=apprentice)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunny-64&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunny-64&theme=apprentice)
-
--->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunny-64&theme=dark" width="100%" />
 
 <div align="right" >
