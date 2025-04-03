@@ -5,8 +5,8 @@
   <img src="https://visitcount.itsvg.in/api?id=Sunny-64&label=Profile%20Views&color=12&icon=7&pretty=true" align="right"/>
 </a>
 </h1>
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/output/github-contribution-grid-snake.svg" alt="snake" />
+<!-- 
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Sunny-64/Sunny-64/output/github-contribution-grid-snake.svg" alt="snake" /> -->
 
 <!-- <img align="right" alt="Coding" width="400" src="images/right.png"> -->
 
